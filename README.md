@@ -2,6 +2,9 @@
 
 This repository contains a collection of AWS CLI commands for managing various AWS services including EC2, EBS, S3, VPC, IAM, Lambda, RDS, and SNS. Each section is organized by service type for easy reference.
 
+[70 AWS CLI Commands](https://www.youtube.com/watch?v=fcH3poS5KME)
+
+
 
 ## EC2
 
